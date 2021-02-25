@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-:computer: I'm currently working on my portfolio
+💻 I’m currently working on my portfolio
+💾 I’m currently studying Computer Engineering
+
 <!--
 **andre-ff-dias/andre-ff-dias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
