@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+:laptop: I'm currently working on my portfolio
 <!--
 **andre-ff-dias/andre-ff-dias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
